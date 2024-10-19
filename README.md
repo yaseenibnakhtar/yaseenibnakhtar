@@ -11,7 +11,8 @@ I'm a Computer Engineering student with a passion for cybersecurity, electronics
 
 📫 How to reach me **yaseenibnakhtar@proton.me**
 
-<h3 align="left" >Connect with me:</h3> <p href="href= https://www.linkedin.com/in/yaseenibnakhtar1/">Linkedin~yaseenibnakhtar1 </p>
+<h3 align="left" >Connect with me:</h3> <a href="https://www.linkedin.com/in/yaseenibnakhtar1/">LinkedIn: yaseenibnakhtar1</a>
+
 <p align="left">
 </p>
 
