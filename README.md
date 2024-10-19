@@ -9,7 +9,7 @@ I'm a Computer Engineering student with a passion for cybersecurity, electronics
 
 🌱 Always learning: Advanced C++, computer architecture, and new developments in cybersecurity and DSP.
 
-📫 How to reach me **muhammad.yaseen.ce@outlook.com**
+📫 How to reach me **yaseenibnakhtar@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
