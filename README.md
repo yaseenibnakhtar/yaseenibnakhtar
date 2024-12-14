@@ -7,7 +7,7 @@ I'm a Computer Engineering student with a passion for cybersecurity, electronics
 
 💻 Currently working on: Penetration testing lab walkthroughs and exploring new projects in cybersecurity and electronics.
 
-🌱 Always learning: Advanced C++, computer architecture, and new developments in cybersecurity and DSP.
+🌱 Always learning: Advanced C++, computer architecture, and new developments in cybersecurity and  Signal processing(DSP).
 
 📫 How to reach me **yaseenibnakhtar@proton.me**
 
