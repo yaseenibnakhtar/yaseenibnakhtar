@@ -3121,7 +3121,9 @@ td:last-child {
 }
 
 .s-header__logo img {
-    width         : var(--logo-width);
+    width         : 175px;
+    height        : auto;
+    max-width     : 100%;
     margin        : 0;
     vertical-align: bottom;
 }
@@ -3406,7 +3408,7 @@ td:last-child {
 }
 
 .s-intro__content-title {
-    font-size     : clamp(3.8rem, 4.8vw, 8.8rem);
+    font-size     : clamp(3.3rem, 4.2vw, 8.4rem);
     line-height   : 1.045;
     letter-spacing: -0.025em;
     margin-top    : 0;
